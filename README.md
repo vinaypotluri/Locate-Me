@@ -18,6 +18,8 @@ Steps:
 5. Displays all the necessary resource information about the user.
 6. Voice and Notifications are triggered when a new location is entered.
 7. Options to start and stop
+8. All Exceptions are handled efficiently. 
+
 
 Snapshots
 ==========
