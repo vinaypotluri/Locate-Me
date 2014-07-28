@@ -2,6 +2,7 @@ Locate-Me
 ============
 A location based app (Glassware) for Google Glass
 
+**Platform:** Google Glass                                                                              
 **Language:** Java                                                                                      
 **Environment:** Eclipse, Android Studio                                                              
 
