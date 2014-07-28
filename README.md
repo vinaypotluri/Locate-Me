@@ -32,28 +32,3 @@ Service Class:
 7. Runs in the background even when screen is locked without interrupting the user.
 
 
-Google Glass HomeScreen
-![](http://i.imgur.com/iJYu32Y.png)
-
-
-App in the List
-![](http://i.imgur.com/dH7gh7m.png)
-
-
-Gets the relevant information based on the user's location
-![](http://i.imgur.com/OZw2f8n.png)
-
-
-Options Menu - Info
-![](http://i.imgur.com/8sbUoNf.png)
-
-
-General Information about the app and the Developer
-![](http://i.imgur.com/AplJJZ1.png)
-
-
-Option to stop the app - Does not run in the Background
-![](http://i.imgur.com/nOHGfDS.png)
-
-
-
