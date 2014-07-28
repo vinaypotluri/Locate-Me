@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.glass_loc"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+
+    <uses-permission android:name="com.google.android.glass.permission.DEVELOPMENT" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+	
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="19" />
+
+    <application
+		android:allowBackup="true"
+		android:icon="@drawable/ic_launcher"
+		android:label="@string/app_name" >
+		<activity
+			android:name="com.example.glass_loc.MainActivity"
+			android:theme="@style/MenuTheme"
+			android:label="@string/app_name" >
+			<intent-filter>
+					<action android:name="com.google.android.glass.action.VOICE_TRIGGER" />
+			</intent-filter>
+			<meta-data 
+			    android:name="com.google.android.glass.VoiceTrigger"
+				android:resource="@xml/voice_trigger" />
+		</activity>
+		
+		
+		<activity
+			android:name="com.example.glass_loc.info"
+			android:label="@string/app_name" >
+		</activity>
+	</application>
+</manifest>

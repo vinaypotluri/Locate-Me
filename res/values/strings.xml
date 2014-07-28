@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Location</string>
+    <string name="hello_world">My Location App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="mycommand">Library Info</string>
+
+    <string name="back">Back</string>
+    <string name="info">Info</string>
+    <string name="stop">Stop</string>
+</resources>
