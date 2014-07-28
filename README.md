@@ -32,7 +32,7 @@ Service Class:
 7. Runs in the background even when screen is locked without interrupting the user.
 
 
-
+Google Glass HomeScreen
 ![](http://i.imgur.com/iJYu32Y.png)
 
 
