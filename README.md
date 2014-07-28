@@ -15,10 +15,10 @@ Steps:
 2. Geocoder API is used to decode address from latitude longitude values in real time.
 3. Gets the building name based on the available address.
 4. Pulls up information about the building resources from the University website.
-5. Displays all the necessary resource information about the user.
-6. Voice and Notifications are triggered when a new location is entered.
+5. Pushes all the necessary resources information to the user.
+6. Voice and Notifications are triggered when the location changes.
 7. Options to start and stop
-8. All Exceptions are handled efficiently. 
+8. All Exceptions are handled efficiently in Java. 
 
 
 Snapshots
