@@ -33,6 +33,9 @@ Service Class:
 
 
 
+
+
+
 Google Glass HomeScreen
 ![](http://i.imgur.com/iJYu32Y.png)
 
