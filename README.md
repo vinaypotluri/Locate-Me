@@ -65,13 +65,12 @@ Point of Interest with Meta-data screenshot
 
 
 
-Point of Interest with Meta-data screenshot                               
+Point of Interest with Meta-data screenshot                                               
+
 ![](http://i.imgur.com/uUBq1Cf.png)
 
 
 
 
-Point of Interest with Meta-data screenshot                               
+Point of Interest with Meta-data screenshot                                              
 ![](http://i.imgur.com/fiUG2Bo.png)
-
-
