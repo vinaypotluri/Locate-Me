@@ -28,39 +28,48 @@ Snapshots
 ==========
 
 Google Glass HomeScreen                                               
-![](http://i.imgur.com/iJYu32Y.png)
+![](http://i.imgur.com/1p0xtrI.png)
 
 
 
 
 App in the List                                                             
-![](http://i.imgur.com/dH7gh7m.png)
+![](http://i.imgur.com/m7wbeMG.png)
 
 
 
 
-Gets the relevant information based on the user's location                        
-![](http://i.imgur.com/OZw2f8n.png)
+Loads the app while showing splash screen                        
+![](http://i.imgur.com/1YP170A.png)
 
 
 
 
-Options Menu - Info                                                                 
-![](http://i.imgur.com/8sbUoNf.png)
+Red Status Button to indicate location status (acquiring location)                                                                
+![](http://i.imgur.com/mUyuYPP.png)
 
 
 
 
-General Information about the app and the Developer                                   
-![](http://i.imgur.com/AplJJZ1.png)
+Green status button indicating location status (location avaialable)                                    
+![](http://i.imgur.com/N2pdpVY.png)
 
 
 
 
-Option to stop the app - Does not run in the Background                               
-![](http://i.imgur.com/nOHGfDS.png)
+Point of Interest with Meta-data screenshot                               
+![](http://i.imgur.com/7bGzac0.png)
 
 
 
+
+Point of Interest with Meta-data screenshot                               
+![](http://i.imgur.com/uUBq1Cf.png)
+
+
+
+
+Point of Interest with Meta-data screenshot                               
+![](http://i.imgur.com/fiUG2Bo.png)
 
 
