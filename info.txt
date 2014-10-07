@@ -1,7 +1,0 @@
-The project involved developing a Location Based app for google glass users.  Location based updates within the University Campus such as building name, address and the available resources are pushed to the glass interface in real time. The applications commonly known as Glassware are built using Glass Development Kit (GDK) and Android SDK with the help of mirror APIs for extracting data from the web. A first of its kind implementation by a University for the emerging technology.
-
-
-The source code will be uploaded soon...
-
-
-
